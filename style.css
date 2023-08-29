@@ -179,6 +179,7 @@ img {
   background-color: rgb(231, 231, 231);
   margin-top: 4rem;
   
+  
 }
 
 .page-header {
@@ -196,6 +197,7 @@ img {
   display: flex;
   flex-direction: column;
   gap: 120px;
+  
 }
 
 .project-card {
@@ -240,7 +242,7 @@ img {
 
 .project-number {
   position: absolute;
-  font-size: 200px;
+  font-size: 150px;
   font-weight: 600;
   color: white;
   z-index: 10;
@@ -273,6 +275,7 @@ img {
   z-index: 5;
   gap: 1em;
   transition: all 0.4s;
+  
 }
 
 
@@ -304,7 +307,7 @@ img {
 
 .project-subHeading {
   width: 70%;
-  font-size: 16px;
+  font-size: 19px;
   font-style: italic;
 }
 
@@ -452,8 +455,8 @@ img {
   font-size: 10em;
   font-style: bold;
   color: rgb(231, 231, 231);
-  bottom: -30.5%;
-  right: -25%;
+  bottom: -23.5%;
+  right: -26%;
   user-select: none;
   overflow-y: hidden;
 }
