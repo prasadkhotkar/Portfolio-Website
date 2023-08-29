@@ -323,19 +323,19 @@ img{
           }
         
           #project1{
-            background-image: url(./images/projects/Project1.png);
+            background-image: url(./img/project/project3.jpg);
           }
         
           #project2{
             margin-left:120px;
-            background-image: url(./images/projects/Project2.png);
+            background-image: url(./img/project/project2.jpg);
           }
           #project3{
-            background-image: url(./images/projects/Project3.png);
+            background-image: url(./img/project/project3.jpg);
           }
           #project4{
             margin-left:120px;
-            background-image: url(./images/projects/Project4.png);
+            background-image: url(./img/project/project4.png);
           }
         
           @media (max-width:1300px) {
@@ -402,6 +402,7 @@ img{
             padding:5rem;
             margin:10rem auto;
             gap:30px;
+            background-color: antiquewhite;
           }
         
         .skill-container-left{
@@ -421,11 +422,11 @@ img{
         
         .skill-fade-text{
           position:absolute;
-          font-size:15em;
+          font-size:10em;
           font-style:bold;
           color:rgb(231,231,231);
           bottom:-34.5%;
-          right:-25%;
+          right:-10%;
           user-select:none;
           overflow-y:hidden;
         }
@@ -434,7 +435,7 @@ img{
           position:absolute;
           top:50%;
           left:50%;
-          z-index:-5;
+          /* z-index:-5; */
           transform:translate(-50%, -50%);
           animation: blobAnimate 3s linear infinite;
         }
@@ -447,7 +448,7 @@ img{
         }
         
         .skills-logo{
-          width:90px;
+          width:100px;
           transition:all 0.5s;
         }
         
