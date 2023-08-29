@@ -132,6 +132,7 @@ img {
   margin-top: 1rem;
   width: 70%;
   font-weight: 500;
+  font-size: 1.2rem;
 }
 
 .btn-pink {
@@ -177,6 +178,7 @@ img {
 .project-section {
   background-color: rgb(231, 231, 231);
   margin-top: 4rem;
+  
 }
 
 .page-header {
@@ -333,16 +335,16 @@ img {
 }
 
 #project1 {
-  background-image: url(./img/project/project3.jpg);
+  background-image: url(./img/project/project1.png);
 }
 
 #project2 {
   margin-left: 120px;
-  background-image: url(./img/project/project2.jpg);
+  background-image: url(./img/project/project2.png);
 }
 
 #project3 {
-  background-image: url(./img/project/project3.jpg);
+  background-image: url(./img/project/project3.png);
 }
 
 #project4 {
@@ -408,7 +410,7 @@ img {
   }
 
   .project-skill {
-    width: 35px;
+    width: 40px;
   }
 
   .project-card:hover .project-number {
@@ -450,8 +452,8 @@ img {
   font-size: 10em;
   font-style: bold;
   color: rgb(231, 231, 231);
-  bottom: -34.5%;
-  right: -10%;
+  bottom: -30.5%;
+  right: -25%;
   user-select: none;
   overflow-y: hidden;
 }
@@ -473,7 +475,8 @@ img {
 }
 
 .skills-logo {
-  width: 100px;
+  width: 130px;
+  height: 160px;
   transition: all 0.5s;
 }
 
@@ -517,7 +520,7 @@ img {
   
 }
 .contactUs-sub-heading{
-  font-size: 3rem;
+  font-size: 1.7rem;
   color: #343d68aa;
   text-transform: capitalize;
   
