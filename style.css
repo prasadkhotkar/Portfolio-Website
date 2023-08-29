@@ -458,7 +458,7 @@ img {
   bottom: -23.5%;
   right: -26%;
   user-select: none;
-  overflow-y: hidden;
+  overflow-x: hidden;
 }
 
 .blob-style {
