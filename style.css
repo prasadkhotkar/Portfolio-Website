@@ -455,8 +455,8 @@ img {
   font-size: 10em;
   font-style: bold;
   color: rgb(231, 231, 231);
-  bottom: -23.5%;
-  right: -26%;
+  bottom:-24%;
+  right:-20.5% ;
   user-select: none;
   overflow-x: hidden;
 }
