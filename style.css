@@ -450,7 +450,7 @@ img {
   justify-content: center;
 }
 
-.skill-fade-text {
+/* .skill-fade-text {
   position: absolute;
   font-size: 10em;
   font-style: bold;
@@ -459,23 +459,23 @@ img {
   right:-20.5% ;
   user-select: none;
   overflow-x: hidden;
-}
+} */
 
-.blob-style {
+/* .blob-style {
   position: absolute;
   top: 50%;
   left: 50%;
   /* z-index:-5; */
-  transform: translate(-50%, -50%);
+  /* transform: translate(-50%, -50%);
   animation: blobAnimate 3s linear infinite;
-}
+} */ 
 
-@keyframes blobAnimate {
+/* @keyframes blobAnimate {
   50% {
     top: 54%;
     left: 46%;
   }
-}
+} */
 
 .skills-logo {
   width: 130px;
@@ -508,6 +508,9 @@ img {
   margin: 15px 0;
 
 }
+
+
+
 
 
         /* contact-section */
@@ -573,6 +576,8 @@ img {
   padding: 0 1rem;
   font-size: 1.5rem;
 }
+
+
 
      /* footer-section */
 footer{
