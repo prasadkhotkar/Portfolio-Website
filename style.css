@@ -12,10 +12,11 @@
   --bgOrange: #e84949;
 }
 
-#wrapper {
+.wrapper {
   height: 100vh;
   overflow-y: auto;
   overflow-x: hidden;
+ 
 }
 
 .container {
@@ -585,6 +586,9 @@ footer{
   margin-top: -1px;
   background-color: #343d68;
   padding:5rem ;
+}
+.footer .container{
+  height: 600px;
 }
 .footer-wrapper{
   display: flex;
